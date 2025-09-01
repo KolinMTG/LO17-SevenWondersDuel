@@ -86,5 +86,5 @@ Tout le code s'execute normalement sans bugs. En cas de problèmes, n'hésitez p
 
 ## Auteurs
 Ce projet a été réalisé par 
-Amen Nticha (https://github.com/asiopta)
-Colin MANYRI 
+- Amen Nticha (https://github.com/asiopta)
+- Colin MANYRI 
