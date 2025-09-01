@@ -83,8 +83,9 @@ Pour compiler et exécuter le projet, suivez ces étapes :
 
 Tout le code s'execute normalement sans bugs. En cas de problèmes, n'hésitez pas à nous contacter à l'adresse mail suivante :
 - colin.manyri@etu.utc.fr
+- amen.nticha@etu.utc.fr
 
 ## Auteurs
 Ce projet a été réalisé par 
 - Amen Nticha (https://github.com/asiopta)
-- Colin MANYRI 
+- Colin MANYRI (https://github.com/KolinMTG)
