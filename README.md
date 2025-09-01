@@ -85,4 +85,6 @@ Tout le code s'execute normalement sans bugs. En cas de problèmes, n'hésitez p
 - colin.manyri@etu.utc.fr
 
 ## Auteurs
-Ce projet a été réalisé par Amen Nticha et Colin MANYRI. (50% - 50%)
+Ce projet a été réalisé par 
+Amen Nticha (https://github.com/asiopta)
+Colin MANYRI 
